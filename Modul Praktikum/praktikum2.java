@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class praktikum22 {
+public class praktikum2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String nama, kelurahan;
